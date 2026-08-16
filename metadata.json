@@ -1,0 +1,6 @@
+{
+  "name": "Aether Social",
+  "description": "Next-generation AI-powered social media platform featuring real-time feed, live hosting on free edge servers, short reels, interactive stories, encrypted chat, voice and video calls, and Gemini AI creative tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
